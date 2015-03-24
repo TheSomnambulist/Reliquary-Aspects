@@ -1,7 +1,8 @@
 # Reliquary-Aspects
-This adds aspects to reliquary's mob drops.  It's uses Thaumcraft, Forbidden Magic, and of course Reliquary.  
-I originally made a suggestion on the reliquary github, and then I realized that this might be 
+This adds aspects to reliquary's mob drops.  It's uses Thaumcraft, Forbidden Magic, and of course Reliquary.  I originally made a suggestion on the reliquary github, and then I realized that this might be 
 a good way to learn for myself.
+
+I have not yet coded the addtional mob drops. soon(tm)
 
 This is the comment in full.
 
